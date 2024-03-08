@@ -1,0 +1,58 @@
+﻿@model WebApp1.Models.SearchedItem
+
+
+<script type="text/javascript">
+	function showDivByEventType() {
+
+		var val = document.getElementById("EventType").value;
+		if (val == 0) {	
+            window.location.replace("/Home/SelectGoToPage");
+		}
+		if (val == 1) {
+            window.location.replace("/Home/SelectClick");
+		}
+		if (val == 2) {
+            window.location.replace("/Home/SelectSetInputVal");
+		}
+	    if (val == 3) {
+            window.location.replace("/Home/SelectRead");
+		}
+	}
+
+</script>
+
+<div class="row">
+	<div class="col-md-4">
+			<div>
+				<label>Select event</label>
+				<select id="EventType" onchange="showDivByEventType();">
+					<option value="-1">
+						Select an option
+					</option>
+					<option value="0">
+						Go To Page
+					</option>
+					<option value="1">
+						Click
+					</option>
+					<option value="2">
+						Set Input Value
+					</option>
+					<option value="3">
+						Read Inner Elements
+					</option>
+				</select>
+			</div>
+			<div class="form-group">
+				<a href="/Home/SelectedItemsList" class="btn btn-danger">Cancel</a>
+			</div>
+	</div>
+	<section id="mainContentArea">
+		@Html.Raw(ViewBag.Result)
+	</section>
+</div>
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

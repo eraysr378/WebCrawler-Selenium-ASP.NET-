@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github_Projects\\WebCrawlingAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erayy\\AppData\\Local\\SourceServer\\5857b872f60075909168c5e384bd555eca058ab5b607e6b7e26f42adb9bb37c7\\WebApp1\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\views\\home\\getexceldatainput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\getexceldatainput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\models\\exceldatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\models\\exceldatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\youtube.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\youtube.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\views\\home\\done.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\done.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\models\\flow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\models\\flow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\views\\home\\listsaveditems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\listsaveditems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erayy\\Downloads\\FLow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\6.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.CodeGeneration.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\views\\home\\selectgotopage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\selectgotopage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\views\\home\\getflowname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\getflowname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\views\\home\\createnewflowlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\createnewflowlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\views\\home\\itemselection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\itemselection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\models\\searcheditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\models\\searcheditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\views\\home\\printreaditems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\printreaditems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\models\\flowlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\models\\flowlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\models\\pricemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\models\\pricemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\models\\bigviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\models\\bigviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|d:\\github_projects\\webcrawlingautomation\\webapp1\\views\\home\\selecteditemslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E83288-20E2-4C34-A425-2E774F6D053D}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\selecteditemslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAiwE4BAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:35:33.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemSelection.cshtml",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\ItemSelection.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\ItemSelection.cshtml",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\ItemSelection.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\ItemSelection.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T07:35:33.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListSavedItems.cshtml",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\ListSavedItems.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\ListSavedItems.cshtml",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\ListSavedItems.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\ListSavedItems.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T07:35:33.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T07:35:33.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T07:35:33.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExcelDataModel.cs",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\ExcelDataModel.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Models\\ExcelDataModel.cs",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\ExcelDataModel.cs",
+              "RelativeToolTip": "WebApp1\\Models\\ExcelDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:35:33.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.json",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Products.json",
+              "RelativeDocumentMoniker": "WebApp1\\Products.json",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Products.json",
+              "RelativeToolTip": "WebApp1\\Products.json",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T11:36:33.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\erayy\\AppData\\Local\\SourceServer\\5857b872f60075909168c5e384bd555eca058ab5b607e6b7e26f42adb9bb37c7\\WebApp1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\erayy\\AppData\\Local\\SourceServer\\5857b872f60075909168c5e384bd555eca058ab5b607e6b7e26f42adb9bb37c7\\WebApp1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAN8BAAAAAAAAAAAiwO8BAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:50:05.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetExcelDataInput.cshtml",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\GetExcelDataInput.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\GetExcelDataInput.cshtml",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\GetExcelDataInput.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\GetExcelDataInput.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T07:35:33.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flow.cs",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\Flow.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Models\\Flow.cs",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\Flow.cs",
+              "RelativeToolTip": "WebApp1\\Models\\Flow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:35:33.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Done.cshtml",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\Done.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\Done.cshtml",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\Done.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\Done.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:08:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Youtube.json",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Youtube.json",
+              "RelativeDocumentMoniker": "WebApp1\\Youtube.json",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Youtube.json",
+              "RelativeToolTip": "WebApp1\\Youtube.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T11:36:34.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateNewFlowList.cshtml",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\CreateNewFlowList.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\CreateNewFlowList.cshtml",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\CreateNewFlowList.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\CreateNewFlowList.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T07:35:33.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetFlowName.cshtml",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\GetFlowName.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\GetFlowName.cshtml",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\GetFlowName.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\GetFlowName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T07:35:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SelectGoToPage.cshtml",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\SelectGoToPage.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\SelectGoToPage.cshtml",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\SelectGoToPage.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\SelectGoToPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T07:35:33.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SearchedItem.cs",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\SearchedItem.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Models\\SearchedItem.cs",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\SearchedItem.cs",
+              "RelativeToolTip": "WebApp1\\Models\\SearchedItem.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:35:33.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PrintReadItems.cshtml",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\PrintReadItems.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\PrintReadItems.cshtml",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\PrintReadItems.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\PrintReadItems.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T07:35:33.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlowListModel.cs",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\FlowListModel.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Models\\FlowListModel.cs",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\FlowListModel.cs",
+              "RelativeToolTip": "WebApp1\\Models\\FlowListModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:35:33.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PriceModel.cs",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\PriceModel.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Models\\PriceModel.cs",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\PriceModel.cs",
+              "RelativeToolTip": "WebApp1\\Models\\PriceModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:35:33.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BigViewModel.cs",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\BigViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Models\\BigViewModel.cs",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Models\\BigViewModel.cs",
+              "RelativeToolTip": "WebApp1\\Models\\BigViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:35:33.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FLow.cs",
+              "DocumentMoniker": "C:\\Users\\erayy\\Downloads\\FLow.cs",
+              "ToolTip": "C:\\Users\\erayy\\Downloads\\FLow.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-30T15:32:33.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SelectedItemsList.cshtml",
+              "DocumentMoniker": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\SelectedItemsList.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\SelectedItemsList.cshtml",
+              "ToolTip": "D:\\Github_Projects\\WebCrawlingAutomation\\WebApp1\\Views\\Home\\SelectedItemsList.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\SelectedItemsList.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIB5wCUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T07:35:33.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.NET.Sdk.Razor.CodeGeneration.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.CodeGeneration.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.CodeGeneration.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2022-09-05T10:41:07.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

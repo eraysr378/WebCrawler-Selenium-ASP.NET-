@@ -1,0 +1,26 @@
+﻿@model WebApp1.Models.ExcelDataModel
+
+<h4>Enter product names file path and the column</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Done">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FilePath" class="control-label"></label>
+                <input asp-for="FilePath" class="form-control" />
+                <span asp-validation-for="FilePath" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Column" class="control-label"></label>
+                <input asp-for="Column" class="form-control" />
+                <span asp-validation-for="Column" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Done" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+

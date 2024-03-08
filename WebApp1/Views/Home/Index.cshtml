@@ -1,0 +1,16 @@
+﻿@model WebApp1.Models.SearchedItem
+
+<h4>Start crawling</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <a href="Home/CreateNewFlowList" class="btn btn-primary"> Create New Flow List</a>
+    </div>
+    <section id="mainContentArea">
+        @Html.Raw(ViewBag.Result)
+    </section>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,43 @@
+﻿@model WebApp1.Models.BigViewModel
+
+<p>
+	<a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			@foreach (var item in Model.ExpandoModels)
+			{
+				@foreach (var obj in item.Expando)
+				{
+					<th>@obj.Key</th>
+				}
+				break;
+			}
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.ExpandoModels)
+		{
+			<tr>
+
+				@foreach (var obj in item.Expando)
+				{				
+					if(obj.Value == null){
+						<th>Invalid</th>
+					}
+				    else{
+						<th>@obj.Value</th>
+					}
+				}
+			</tr>
+		}
+	</tbody>
+</table>
+<input type="button" value="Save As Excel" class="btn btn-success" onclick="@("window.location.href='" + @Url.Action("ExportToExcel", "Home") + "'");" />
+
+<form asp-action="SortBy">
+	<input asp-for="SortName" />
+	<input type="submit" value="Sort" class="btn btn-primary" />
+</form>

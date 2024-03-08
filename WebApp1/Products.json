@@ -1,0 +1,95 @@
+[
+  {
+    "ItemList": [
+      {
+        "ItemId": 1,
+        "XPath": null,
+        "Text": "https://www.trendyol.com/sr?q=@productName",
+        "ReadItemsId": null,
+        "EventType": 0,
+        "IsGroup": false
+      },
+      {
+        "ItemId": 2,
+        "XPath": "//div[@class=\"p-card-chldrn-cntnr card-border\"]",
+        "Text": null,
+        "ReadItemsId": null,
+        "EventType": 3,
+        "IsGroup": false
+      }
+    ],
+    "priceModels": [
+      {
+        "Name": "ürün adı",
+        "XPath": ".//span[@class=\"prdct-desc-cntnr-name hasRatings\"]"
+      },
+      {
+        "Name": "ürün fiyatı",
+        "XPath": ".//div[@class=\"prc-box-dscntd\"]"
+      }
+    ],
+    "Name": "trendyol"
+  },
+  {
+    "ItemList": [
+      {
+        "ItemId": 3,
+        "XPath": null,
+        "Text": "https://www.akakce.com/arama/?q=@productName",
+        "ReadItemsId": null,
+        "EventType": 0,
+        "IsGroup": false
+      },
+      {
+        "ItemId": 4,
+        "XPath": "//li[@class=\"w\"]",
+        "Text": null,
+        "ReadItemsId": null,
+        "EventType": 3,
+        "IsGroup": false
+      }
+    ],
+    "priceModels": [
+      {
+        "Name": "ürün adı",
+        "XPath": ".//span[@class=\"w_v8\"]/h3"
+      },
+      {
+        "Name": "ürün fiyatı",
+        "XPath": ".//span[@class=\"pt_v8\"]"
+      }
+    ],
+    "Name": "akakce"
+  },
+  {
+    "ItemList": [
+      {
+        "ItemId": 7,
+        "XPath": null,
+        "Text": "https://www.n11.com/arama?q=@productName",
+        "ReadItemsId": null,
+        "EventType": 0,
+        "IsGroup": false
+      },
+      {
+        "ItemId": 8,
+        "XPath": "//div[@class=\"columnContent\"]",
+        "Text": null,
+        "ReadItemsId": null,
+        "EventType": 3,
+        "IsGroup": false
+      }
+    ],
+    "priceModels": [
+      {
+        "Name": "ürün adı",
+        "XPath": ".//h3[@class=\"productName\"]"
+      },
+      {
+        "Name": "ürün fiyatı",
+        "XPath": ".//span[@class=\"newPrice cPoint priceEventClick\"]/ins"
+      }
+    ],
+    "Name": "n11"
+  }
+]

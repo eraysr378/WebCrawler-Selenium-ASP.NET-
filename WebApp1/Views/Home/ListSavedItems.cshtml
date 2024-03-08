@@ -1,0 +1,26 @@
+﻿@model IEnumerable<IEnumerable<WebApp1.Models.SearchedItem>>
+
+<p>
+	<a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				Lists
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+
+		@{
+			int i = 1;
+			@foreach (var item in Model)
+			{
+				<tr><td><a href="/Home/SelectFromSaved/@(i-1)">@i .List</a></td></tr>
+				i++;
+			}
+		}
+
+	</tbody>
+</table>

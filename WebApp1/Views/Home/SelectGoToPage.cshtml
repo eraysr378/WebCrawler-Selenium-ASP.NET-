@@ -1,0 +1,28 @@
+﻿@model WebApp1.Models.SearchedItem
+
+<div class="col-md-4">
+	<form asp-action="AddEvent">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<input asp-for="EventType" value="0" style="display:none" />
+		    <div class="form-group">
+				<label>Selected Event: Go To Page</label>
+				    <div class="form-group" id="divActionGoToPage" >
+				        <label asp-for="Text"  class="control-label">Enter url</label>
+			         	<input asp-for="Text" id="url" class="form-control" />
+					    <label>Enter read items id to set its text as input</label>
+		              	<input asp-for="ReadItemsId" class="form-control" />
+		        	</div>
+		   	</div>
+        <div class="form-group">
+		    <input type="submit" value="Continue" class="btn btn-primary" />
+		    <a href="/Home/SelectedItemsList" class="btn btn-danger">Cancel</a>
+	    </div>
+    </form>
+</div>
+
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

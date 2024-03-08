@@ -1,0 +1,16 @@
+﻿@model WebApp1.Models.SearchedItem
+
+<div class="col-md-4">
+	<form asp-action="AddEvent">
+		<input asp-for="EventType" value="1" style="display:none" />
+		<div class="form-group" id="divActionClick">
+			<div>Selected Event: Click</div>
+			<input asp-for="XPath" placeholder="Enter XPath here" class="form-control" />
+			<span asp-validation-for="XPath" class="text-danger"></span>
+			<div class="form-group">
+		    <input type="submit" value="Continue" class="btn btn-primary" />
+		    <a href="/Home/SelectedItemsList" class="btn btn-danger">Cancel</a>
+	    </div>
+    </div>
+	</form>
+</div>

@@ -1,0 +1,25 @@
+[
+  {
+    "ItemList": [
+      {
+        "ItemId": 7,
+        "XPath": null,
+        "Text": "https://www.youtube.com/watch?v=4rLW7zg21gI",
+        "ReadItemsId": null,
+        "EventType": 0,
+        "IsGroup": false
+      },
+      { //*[@id="top-level-buttons-computed"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button-view-model/button
+        "ItemId": 8,
+        "XPath": "//*[@id=\"top-level-buttons-computed\"]/segmented-like-dislike-button-view-model/yt-smartimation/div/div/like-button-view-model/toggle-button-view-model/button-view-model/button",
+        "Text": null,
+        "ReadItemsId": null,
+        "EventType": 1,
+        "IsGroup": false
+      }
+    ],
+    "priceModels": [
+    ],
+    "Name": "youtube"
+  }
+]

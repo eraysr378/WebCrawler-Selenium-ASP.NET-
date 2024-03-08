@@ -1,0 +1,51 @@
+﻿@model IEnumerable<WebApp1.Models.SearchedItem>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.XPath)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReadItemsId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Text)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EventType)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.XPath)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReadItemsId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Text)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.EventType)
+            </td>
+            <td>
+                <a id="Delete" href="/Home/DeleteSearched/@item.ItemId" onclick="return confirm('Are you sure?')" class="btn btn-danger ">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div>
+    <a asp-action="FlowIsDone" class="btn btn-primary">Finish This Flow</a>
+    <a asp-action="ItemSelection" class="btn btn-success">Add event</a>
+    <a asp-action="SaveSelectedItems" class="btn btn-success">Save This Flow</a>
+    <a asp-action="CreateNewFlowList" class="btn btn-danger">Cancel This Flow</a>
+</div>
+
+

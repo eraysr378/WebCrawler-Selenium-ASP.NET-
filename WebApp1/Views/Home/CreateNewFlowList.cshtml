@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<WebApp1.Models.Flow>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				Lists
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+
+		@{
+			int i = 1;
+			@foreach (var item in Model)
+			{
+				<tr><td><a href="/Home/SelectFromFlowList/@(i-1)">@item.Name</a></td></tr>
+				i++;
+			}
+		}
+
+	</tbody>
+</table>
+<a asp-action="GetFlowName"  class="btn btn-success"> Add new flow</a>
+<a asp-action="GetExcelDataInput" class="btn btn-info"> Continue</a>
+<a asp-action="SaveFlowListJSON" onclick="return confirm('The saved file be overwritten by new flow list')" class="btn btn-info"> Save FlowList</a>
+<a asp-action="ReadFlowListJSON" class="btn btn-info"> Read FlowList</a>
